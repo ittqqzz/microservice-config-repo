@@ -4,14 +4,12 @@ spring:
 
 ---
 spring:
-  profiles: 
-    active: dev
+  profiles: dev
   application:
     name: microservice-config-dev
 
 ---
 spring:
-  profiles: 
-    active: test
+  profiles: test
   application:
     name: microservice-config-test
