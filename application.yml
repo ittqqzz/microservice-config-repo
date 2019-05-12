@@ -1,15 +1,17 @@
 spring:
   profiles:
-    active: dev
+    active: unkonw
 
 ---
 spring:
-  profiles: dev
+  profiles: 
+    active: dev
   application:
     name: microservice-config-dev
 
 ---
 spring:
-  profiles: test
+  profiles: 
+    active: test
   application:
     name: microservice-config-test
