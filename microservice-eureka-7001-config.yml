@@ -1,5 +1,10 @@
 server:
   port: 7001
+
+spring:
+  profiles: dev
+  application:
+    name: microservice-eureka-7001
   
 eureka:
   instance:
