@@ -18,7 +18,7 @@ eureka:
 
 
 test:
-  words: abcd
+  words: 123456789
 
       
 ---
