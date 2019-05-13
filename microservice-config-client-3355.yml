@@ -18,7 +18,7 @@ eureka:
 
 
 test:
-  words: qwertyuiop
+  words: abcd
 
       
 ---
