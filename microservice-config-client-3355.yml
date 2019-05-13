@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: microservice-config-client-3355
+    name: microservice-config-client-3355haschanged
 
 eureka:
   client:
